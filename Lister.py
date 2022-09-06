@@ -16,7 +16,3 @@ arrayB = np.array([4,5,6])
 arrayC = np.multiply(arrayA, arrayB)
 
 print(arrayC)
-
-
-
-
