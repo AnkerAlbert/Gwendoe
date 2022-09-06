@@ -10,6 +10,9 @@ print(listA)
 import numpy as np
 
 a = 10
-b = np.array([1,2,3])
+arrayA = np.array([1,2,3])
+arrayB = np.array([4,5,6])
 
-print(b)
+arrayC = np.multiply(arrayA, arrayB)
+
+print(arrayC)
